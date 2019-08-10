@@ -13,7 +13,7 @@
                         <key>url</key>
                         <!--http://192.168.39.135:9095/mobileapi/fileDownload?fileName=掌上供电服务App.ipa&amp;path=/20190807/053f27f3-e1b4-40bf-a468-8d815fe30186-->
                         <!--https://github.com/zhcc/mobilearkplist/raw/master/%E6%8E%8C%E4%B8%8A%E4%BE%9B%E7%94%B5%E6%9C%8D%E5%8A%A1App.ipa-->
-                        <string>http://192.168.39.135:9095/mobileapi/fileDownload?fileName=掌上供电服务App.ipa&amp;path=/20190807/053f27f3-e1b4-40bf-a468-8d815fe30186</string>
+                        <string>https://github.com/zhcc/mobilearkplist/raw/master/%E6%8E%8C%E4%B8%8A%E4%BE%9B%E7%94%B5%E6%9C%8D%E5%8A%A1App.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
