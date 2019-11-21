@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://111.75.203.196:9095/mobileapi/fileDownload?fileName=掌上供电服务App.ipa&amp;path=/20191121/831f5a83-0456-420f-8ae3-c6dca1d06bfb</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.th.peiwang</string>
+                    <key>bundle-version</key>
+                    <string>4.1.8</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>掌上供电服务App</string>
+                    <key>title</key>
+                    <string>掌上供电服务App</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
