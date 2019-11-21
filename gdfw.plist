@@ -11,9 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <!--http://192.168.39.135:9095/mobileapi/fileDownload?fileName=掌上供电服务App.ipa&amp;path=/20190807/053f27f3-e1b4-40bf-a468-8d815fe30186-->
-                        <!--https://github.com/zhcc/mobilearkplist/raw/master/%E6%8E%8C%E4%B8%8A%E4%BE%9B%E7%94%B5%E6%9C%8D%E5%8A%A1App.ipa-->
-                        <string>https://github.com/zhcc/mobilearkplist/raw/master/%E6%8E%8C%E4%B8%8A%E4%BE%9B%E7%94%B5%E6%9C%8D%E5%8A%A1App.ipa</string>
+                        <string>http://111.75.203.196:9095/mobileapi/fileDownload?fileName=iosapp.ipa&amp;path=/20191121/6e5b191c-3e5f-46d9-ad62-a558278409ea</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -21,7 +19,7 @@
                     <key>bundle-identifier</key>
                     <string>com.tellhow.gdfw</string>
                     <key>bundle-version</key>
-                    <string>4.1.52</string>
+                    <string>4.1.8</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
